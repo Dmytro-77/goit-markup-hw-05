@@ -460,7 +460,8 @@ body {
   overflow: auto;
 }
 
-.team-item-porto:hover .team-top-porto {
+.team-kart-porto:hover .team-top-porto,
+.team-kart-porto:focus .team-top-porto {
   transform: translateY(0%);
 }
 
